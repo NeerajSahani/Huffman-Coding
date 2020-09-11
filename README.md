@@ -1,2 +1,2 @@
-# Huffman-Coding-Implementation
+# Huffman-Coding
 Huffman Coding Implementation in Python
